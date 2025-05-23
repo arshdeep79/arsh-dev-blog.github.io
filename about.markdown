@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I’m Arsh — a developer who enjoys building things that solve real problems. This blog is my space to share what I learn, document side projects, and explore ideas around software engineering, tools, and technology.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I write about:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Building new ideas to solve real problems
+* Tools and workflows that boost productivity
+* Using technology in creative ways
+* Deep dives into experiments
+
+Whether you're just starting out or have been in the game for years, I hope you find something here that’s useful, insightful, or at least interesting.
+
+Thanks for reading — and feel free to \[reach out/contact me] if you want to connect!
 
 
-[jekyll-organization]: https://github.com/jekyll
