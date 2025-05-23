@@ -23,7 +23,7 @@ email: arshdeep79@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My thoughts on technology, programming, and life.
   I am a software engineer with a passion for learning and sharing knowledge.
-baseurl: "/arsh-dev-blog.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/arsh-dev-blog.github.io" # the subpath of your site, e.g. /blog
 url: "https://arshdeep79.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: arshdeep79.github.io
 # twitter_username: jekyllrb
