@@ -8,7 +8,7 @@ categories: announcment
 
 Many of us face a big problem when we try to search files on our computer or phone. Today, most search systems use *keywords*. You type a word, and the system tries to find a file that has that exact word in its name. But this is not very smart.
 
-![Example Image]({{ site.baseurl }}/assets/frustrated-boy-search.png)
+![frustrated when searching]({{ site.baseurl }}/assets/frustrated-boy-search.png)
 
 ### Why Keyword Search is Not Enough
 

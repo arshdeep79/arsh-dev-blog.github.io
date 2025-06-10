@@ -31,8 +31,12 @@ domain: arshdeep79.github.io
 
 # Build settings
 theme: minima
+minima:
+  skin: classic
+  include_css: "/assets/style.css"
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
